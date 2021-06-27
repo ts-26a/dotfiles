@@ -1,0 +1,94 @@
+[[plugins]]
+repo = 'tbodt/deoplete-tabnine'
+build = 'sh install.sh'
+on_event = ['InsertEnter']
+
+[[plugins]]
+repo = 'Shougo/neosnippet'
+on_i = 1
+on_ft = ['snippet']
+depends = ['neosnippet-snippets']
+
+[[plugins]]
+repo = 'Shougo/neosnippet-snippets'
+on_ft = ['snippet']
+
+[[plugins]]
+repo = 'Shougo/neco-syntax'
+on_event = ['InsertEnter']
+
+[[plugins]]
+repo = 'Shougo/neco-vim'
+on_ft = ['vim']
+
+[[plugins]]
+repo = 'wokalski/autocomplete-flow'
+on_ft = ['javascript']
+
+[[plugins]]
+repo = 'davidhalter/jedi'
+on_ft = ['python']
+
+[[plugins]]
+repo = 'deoplete-plugins/deoplete-jedi'
+on_ft = ['python']
+
+[[plugins]]
+repo = 'racer-rust/vim-racer'
+on_ft = ['rust']
+
+[[plugins]]
+repo = 'ponko2/deoplete-fish'
+on_ft = ['fish']
+
+[[plugins]]
+repo = 'Shougo/neoinclude.vim'
+on_ft = ['c', 'cpp']
+
+[[plugins]]
+repo = 'Vimjas/vim-python-pep8-indent'
+on_ft = ['python']
+
+[[plugins]]
+repo = 'alvan/vim-closetag'
+on_ft = ['html', 'php']
+
+[[plugins]]
+repo = 'rust-lang/rust.vim'
+on_ft = ['rust']
+
+[[plugins]]
+repo = 'gavocanov/kotlin-vim'
+on_ft = ['kotlin']
+
+[[plugins]]
+repo = 'dag/vim-fish'
+on_ft = ['fish']
+
+[[plugins]]
+repo = 'lluchs/vim-wren'
+on_ft = ['wren']
+
+[[plugins]]
+repo = 'kchmck/vim-coffee-script'
+on_ft = ['coffee']
+
+[[plugins]]
+repo = 'othree/yajs.vim'
+on_ft = ['javascript']
+
+[[plugins]]
+repo = 'othree/html5.vim'
+on_ft = ['html', 'php']
+
+[[plugins]]
+repo = 'cespare/vim-toml'
+on_ft = ['toml']
+
+[[plugins]]
+repo = 'rhysd/vim-llvm'
+on_ft = ['llvm']
+
+[[plugins]]
+repo = 'ts-26a/haskell-vim'
+on_ft = ['haskell']

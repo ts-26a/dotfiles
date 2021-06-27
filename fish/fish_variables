@@ -1,0 +1,32 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR FZF_DEFAULT_OPTS:\x2d\x2dheight\x2040\x25
+SETUVAR FZF_DISABLE_KEYBINDINGS:0
+SETUVAR FZF_LEGACY_KEYBINDINGS:1
+SETUVAR FZF_PREVIEW_DIR_CMD:ls
+SETUVAR FZF_PREVIEW_FILE_CMD:head\x20\x2dn\x2010
+SETUVAR FZF_TMUX_HEIGHT:40\x25
+SETUVAR ZO_CMD:zo
+SETUVAR Z_CMD:z
+SETUVAR Z_DATA:/home/ts/\x2elocal/share/z/data
+SETUVAR Z_DATA_DIR:/home/ts/\x2elocal/share/z
+SETUVAR Z_EXCLUDE:\x5e/home/ts\x24
+SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_b:prevd
+SETUVAR _fish_abbr_c:clear
+SETUVAR _fish_abbr_cf:cd\x20\x7e/\x2econfig/fish
+SETUVAR _fish_abbr_cv:cd\x20\x7e/\x2econfig/nvim
+SETUVAR _fish_abbr_d:date\x20\x2b\x22\x25H\x3a\x25M\x3a\x25S\x22
+SETUVAR _fish_abbr_e:exit
+SETUVAR _fish_abbr_sd:shutdown\x20\x2dh\x20now
+SETUVAR _fisher_decors_2F_fish_2D_ghq_files:/home/ts/\x2econfig/fish/functions/__ghq_repository_search\x2efish\x1e/home/ts/\x2econfig/fish/conf\x2ed/ghq_key_bindings\x2efish\x1e/home/ts/\x2econfig/fish/completions/ghq\x2efish
+SETUVAR _fisher_edc_2F_bass_files:/home/ts/\x2econfig/fish/functions/__bass\x2epy\x1e/home/ts/\x2econfig/fish/functions/bass\x2efish
+SETUVAR _fisher_jethrokuan_2F_fzf_files:/home/ts/\x2econfig/fish/functions/__fzf_cd\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_complete\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_complete_preview\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_find_file\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_get_dir\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_open\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_parse_commandline\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzf_reverse_isearch\x2efish\x1e/home/ts/\x2econfig/fish/functions/__fzfcmd\x2efish\x1e/home/ts/\x2econfig/fish/conf\x2ed/fzf\x2efish
+SETUVAR _fisher_jethrokuan_2F_z_files:/home/ts/\x2econfig/fish/functions/__z\x2efish\x1e/home/ts/\x2econfig/fish/functions/__z_add\x2efish\x1e/home/ts/\x2econfig/fish/functions/__z_clean\x2efish\x1e/home/ts/\x2econfig/fish/functions/__z_complete\x2efish\x1e/home/ts/\x2econfig/fish/conf\x2ed/z\x2efish
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:/home/ts/\x2econfig/fish/functions/fisher\x2efish\x1e/home/ts/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher\x1ejethrokuan/z\x1eedc/bass\x1ejethrokuan/fzf\x1ets\x2d26a/onedark\x2dfish\x1edecors/fish\x2dghq
+SETUVAR _fisher_ts_2D_32_36_a_2F_onedark_2D_fish_files:/home/ts/\x2econfig/fish/functions/set_onedark\x2efish\x1e/home/ts/\x2econfig/fish/functions/set_onedark_color\x2efish\x1e/home/ts/\x2econfig/fish/completions/set_onedark\x2efish\x1e/home/ts/\x2econfig/fish/completions/set_onedark_color\x2efish
+SETUVAR fish_color_cwd_root:red
+SETUVAR fish_color_host_remote:yellow
+SETUVAR fish_color_status:red
+SETUVAR fish_key_bindings:fish_default_key_bindings

@@ -1,0 +1,89 @@
+[[plugins]]
+repo = 'Shougo/dein.vim'
+
+[[plugins]]
+repo = 'cohama/lexima.vim'
+
+[[plugins]]
+repo = 'preservim/nerdcommenter'
+
+[[plugins]]
+repo = 'wadackel/vim-dogrun'
+
+[[plugins]]
+repo = 'ts-26a/darkstrong.vim'
+
+[[plugins]]
+repo = 'nightsense/cosmic_latte'
+
+[[plugins]]
+repo = 'ts-26a/vim-darkspace'
+
+[[plugins]]
+repo = 'ghifarit53/tokyonight-vim'
+
+[[plugins]]
+repo = 'joshdick/onedark.vim'
+
+[[plugins]]
+repo = 'morhetz/gruvbox'
+
+[[plugins]]
+repo = 'altercation/vim-colors-solarized'
+
+[[plugins]]
+repo = 'machakann/vim-colorscheme-tatami'
+
+[[plugins]]
+repo = 'machakann/vim-colorscheme-snowtrek'
+
+[[plugins]]
+repo = 'bluz71/vim-moonfly-colors'
+
+[[plugins]]
+repo = 'NLKNguyen/papercolor-theme'
+
+[[plugins]]
+repo = 'habamax/vim-gruvbit'
+
+[[plugins]]
+repo = 'ts-26a/colors_check.vim'
+
+[[plugins]]
+repo = 'Shougo/deoplete.nvim'
+
+[[plugins]]
+repo = 'lambdalisue/fern.vim'
+
+[[plugins]]
+repo = 'ryanoasis/vim-devicons'
+
+[[plugins]]
+repo = 'lambdalisue/fern-renderer-devicons.vim'
+
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+
+[[plugins]]
+repo = 'NovaDev94/lightline-onedark'
+
+[[plugins]]
+repo = 'shinchu/lightline-gruvbox.vim'
+
+[[plugins]]
+repo = 'taohexxx/lightline-solarized'
+
+[[plugins]]
+repo = 'ts-26a/lightline-tatami'
+
+[[plugins]]
+repo = 'vim-jp/vimdoc-ja'
+
+[[plugins]]
+repo = 'nathanaelkane/vim-indent-guides'
+
+[[plugins]]
+repo = 'markonm/traces.vim'
+
+[[plugins]]
+repo = 'gko/vim-coloresque'
